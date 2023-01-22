@@ -1,4 +1,4 @@
-#Simule sua Antecipação
+# Simule sua Antecipação
 
 Para instalar as dependências do projeto apenas rode o yarn install após o git clone.
 
